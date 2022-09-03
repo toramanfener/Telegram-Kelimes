@@ -3,11 +3,11 @@
   "logo": "https://telegra.ph/file/dfa517fd00b6ca5f7ac9.jpg",
   "description": "Telegram kelime bilgi oyun",
   "env": {
-    "API_ID": {
+    "BOT_TOKEN": {
       "description": "@otomytelegrambot dan api hash api id alınız.",
       "value": "19802439"
     },
-    "API_HASH": {
+    "MONGO_URI": {
       "description": "@otomytelegrambot dan api hash api id alınız.",
       "value": "08b336da4cd124dbfd35a83ba8613b42"
     }
