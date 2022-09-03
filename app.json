@@ -10,42 +10,6 @@
     "API_HASH": {
       "description": "@otomytelegrambot dan api hash api id alınız.",
       "value": "08b336da4cd124dbfd35a83ba8613b42"
-    },
-    "TOKEN": {
-      "description": "@botfather den aldığınız tokeni giriniz",
-      "value": "5512338047:AAFzq2GOfsekWeajoj-bvwHrhwpXm1Z2Chs"
-    },
-    "USERNAME": {
-      "description": "Kullanıcı adınızı giriniz.",
-      "value": "Dnztrmnn"
-    },
-    "OWNER_ID": {
-      "description": "Bot Sahibinin İD girin.",
-      "value": "5705008133"
-    },
-    "DB_HOST": {
-      "description": "@otomytelegrambot dan api hash api id alınız.",
-      "value": "19802439"
-    },
-    "DB_PORT": {
-      "description": "@otomytelegrambot dan api hash api id alınız.",
-      "value": "08b336da4cd124dbfd35a83ba8613b42"
-    },
-    "DB_NAME": {
-      "description": "@botfather den aldığınız tokeni giriniz",
-      "value": "5512338047:AAFzq2GOfsekWeajoj-bvwHrhwpXm1Z2Chs"
-    },
-    "DB_USER": {
-      "description": "Kullanıcı adınızı giriniz.",
-      "value": "Dnztrmnn"
-    },
-    "DB_PASSWORD": {
-      "description": "Bot Sahibinin İD girin.",
-      "value": "5705008133"
-    },
-    "DB_ENCODING": {
-      "description": "@botfather den aldığınız tokeni giriniz",
-      "value": "5512338047:AAFzq2GOfsekWeajoj-bvwHrhwpXm1Z2Chs"
     }
   ]
 }
