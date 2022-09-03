@@ -1,15 +1,21 @@
 {
-  "name": "Kelime Evreni",
-  "logo": "https://telegra.ph/file/dfa517fd00b6ca5f7ac9.jpg",
-  "description": "Telegram kelime bilgi oyun",
+  "name": "Crocodile Game",
+  "description": "A Telegram word-based game bot.",
+  "keywords": ["telegram", "python"],
+  "repository": "https://github.com/PatheticProgrammers/CrocodileGame",
   "env": {
     "BOT_TOKEN": {
-      "description": "@otomytelegrambot dan api hash api id alınız.",
-      "value": "19802439"
+      "description": "A bot token from @BotFather.",
+      "required": true
     },
     "MONGO_URI": {
-      "description": "@otomytelegrambot dan api hash api id alınız.",
-      "value": "08b336da4cd124dbfd35a83ba8613b42"
+      "description": "A MongoDB URI.",
+      "required": true
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/python"
     }
   ]
 }
